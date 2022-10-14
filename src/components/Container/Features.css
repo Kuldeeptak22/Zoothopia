@@ -1,0 +1,17 @@
+
+.grayBackground:hover{
+    background-color: #f1f1f1;
+  }
+  
+  .shadowbox:hover{
+      /* box-shadow: 2px 2px 6px rgba(132, 126, 126, 0.776); */
+      scale: 110%;
+      transition: 1000ms;
+     
+  }
+  .card-img-top:hover{
+    box-shadow: 2px 2px 6px rgba(132, 126, 126, 0.776);
+  }
+  .card-body:hover{
+    box-shadow: 2px 2px 8px rgba(132, 126, 126, 0.4);
+  }

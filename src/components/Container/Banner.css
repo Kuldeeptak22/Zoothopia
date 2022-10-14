@@ -1,0 +1,16 @@
+.parrot{
+    height: 80%;
+    width: 100%;
+    max-width: 400px;
+   
+}
+.blackbox{
+    height: 55vh;
+    border-radius: 5px;
+   
+}
+.zoo{
+    height: 90%;
+    width: 100%;
+    max-width: 1300px;
+}

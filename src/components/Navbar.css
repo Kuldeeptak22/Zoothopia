@@ -1,0 +1,12 @@
+.navbar{
+    background-color:#BD2031;
+}
+.nav-link{
+    color: rgb(227, 224, 224);
+}
+.nav-link:hover{
+    scale: 120%;
+    transition: 100ms;
+    font-weight: bold;
+    color: yellow;
+}

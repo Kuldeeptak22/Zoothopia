@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Zoothopia/static/css/main.97eebae4.css",
+    "main.js": "/Zoothopia/static/js/main.a25890f5.js",
+    "static/media/zoo.jpg": "/Zoothopia/static/media/zoo.b027c6a17bba3efddf8a.jpg",
+    "static/media/lioness.png": "/Zoothopia/static/media/lioness.c269b4f43cd62a0d2b7a.png",
+    "static/media/gorilla.png": "/Zoothopia/static/media/gorilla.ba35288d3fe11025b6c8.png",
+    "static/media/Rhino.png": "/Zoothopia/static/media/Rhino.3de74609b977d073351c.png",
+    "static/media/white bear.png": "/Zoothopia/static/media/white bear.a8983a671a8c7445df0c.png",
+    "static/media/white fox.png": "/Zoothopia/static/media/white fox.616ec8cd4d432ba7fea0.png",
+    "static/media/White tiger.png": "/Zoothopia/static/media/White tiger.eff4cc84df96c03965ce.png",
+    "static/media/white deer.png": "/Zoothopia/static/media/white deer.065cfd1a7135562d14e9.png",
+    "static/media/Zebra.png": "/Zoothopia/static/media/Zebra.bbd4d4923fe02a130a9f.png",
+    "static/media/Croco.png": "/Zoothopia/static/media/Croco.25a9274a656d07601df8.png",
+    "static/media/elephant.png": "/Zoothopia/static/media/elephant.7b9709fd5c8834846400.png",
+    "static/media/feature2.jpg": "/Zoothopia/static/media/feature2.c900d57cbbb9090f36d3.jpg",
+    "static/media/feature3.jpg": "/Zoothopia/static/media/feature3.b1ccf0eca5d05f1ca287.jpg",
+    "static/media/feature1.jpg": "/Zoothopia/static/media/feature1.0a79d604e95bace33874.jpg",
+    "static/media/Zoothopia.png": "/Zoothopia/static/media/Zoothopia.6a5dcaab7fb4173dee42.png",
+    "index.html": "/Zoothopia/index.html",
+    "main.97eebae4.css.map": "/Zoothopia/static/css/main.97eebae4.css.map",
+    "main.a25890f5.js.map": "/Zoothopia/static/js/main.a25890f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97eebae4.css",
+    "static/js/main.a25890f5.js"
+  ]
+}

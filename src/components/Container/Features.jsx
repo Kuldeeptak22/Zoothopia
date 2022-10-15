@@ -13,8 +13,9 @@ function Features() {
           <div className="card-body ">
             <h5 className="card-title fw-bold">They Need Your Love </h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              We are here to turn the forest into a home, and make peace with
+              all creatures. Never be embarrassed by how much you care about
+              animals and how they're treated
             </p>
           </div>
         </div>
@@ -26,8 +27,10 @@ function Features() {
           <div className="card-body">
             <h5 className="card-title fw-bold">Intelligent Dolphins</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Dolphins are capable of complex problem solving and social
+              interaction. They are one of the smartest animals in the world.
+              They have large and complex brains that developed over thousands
+              of generations.
             </p>
           </div>
         </div>
@@ -39,8 +42,9 @@ function Features() {
           <div className="card-body">
             <h5 className="card-title fw-bold">Underwater Fish Aquarium</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              This is India’s first and largest walk-through aquarium housing
+              everything from small to big aquatic animals.Visit this place and
+              see the beauty of an Ocean.
             </p>
           </div>
         </div>

@@ -5,8 +5,10 @@
     color: rgb(227, 224, 224);
 }
 .nav-link:hover{
-    scale: 120%;
-    transition: 100ms;
+    scale: 100% ;
     font-weight: bold;
     color: yellow;
+}
+.navbar-collapse{
+    transition: 0.7s;
 }

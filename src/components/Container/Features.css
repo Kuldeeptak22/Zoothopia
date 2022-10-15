@@ -5,7 +5,7 @@
   
   .shadowbox:hover{
       /* box-shadow: 2px 2px 6px rgba(132, 126, 126, 0.776); */
-      scale: 110%;
+      scale: 105%;
       transition: 1000ms;
      
   }

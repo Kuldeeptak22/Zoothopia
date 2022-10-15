@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## to access the project please visit the following link given below:-
+       https://kuldeeptak22.github.io/Zoothopia/
+
 ## Available Scripts
 
 In the project directory, you can run:

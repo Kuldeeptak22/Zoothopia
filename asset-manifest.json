@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zoothopia/static/css/main.97eebae4.css",
-    "main.js": "/Zoothopia/static/js/main.a25890f5.js",
+    "main.css": "/Zoothopia/static/css/main.e12db2a4.css",
+    "main.js": "/Zoothopia/static/js/main.d85e9b3b.js",
     "static/media/zoo.jpg": "/Zoothopia/static/media/zoo.b027c6a17bba3efddf8a.jpg",
     "static/media/lioness.png": "/Zoothopia/static/media/lioness.c269b4f43cd62a0d2b7a.png",
     "static/media/gorilla.png": "/Zoothopia/static/media/gorilla.ba35288d3fe11025b6c8.png",
@@ -18,11 +18,11 @@
     "static/media/feature1.jpg": "/Zoothopia/static/media/feature1.0a79d604e95bace33874.jpg",
     "static/media/Zoothopia.png": "/Zoothopia/static/media/Zoothopia.6a5dcaab7fb4173dee42.png",
     "index.html": "/Zoothopia/index.html",
-    "main.97eebae4.css.map": "/Zoothopia/static/css/main.97eebae4.css.map",
-    "main.a25890f5.js.map": "/Zoothopia/static/js/main.a25890f5.js.map"
+    "main.e12db2a4.css.map": "/Zoothopia/static/css/main.e12db2a4.css.map",
+    "main.d85e9b3b.js.map": "/Zoothopia/static/js/main.d85e9b3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.97eebae4.css",
-    "static/js/main.a25890f5.js"
+    "static/css/main.e12db2a4.css",
+    "static/js/main.d85e9b3b.js"
   ]
 }
